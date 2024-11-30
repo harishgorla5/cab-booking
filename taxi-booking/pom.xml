@@ -10,7 +10,7 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>cab-booking-1.0</artifactId>
+  <artifactId>cabbooking</artifactId>
   <packaging>war</packaging>
   <name>cabbooking</name>
   <description>Webapp.</description>
