@@ -30,5 +30,6 @@ again i am doing this change for batch 072
 
 this time , i am tesing pol scm , this job need to be execute cst tie zone at 14:4
 
-this time , i am tesing pol scm , this job need to be execute utc tie zone at 5:44 - 15-07-2025
+this time , i am tesing pol scm , this job need to be execute utc tie zone at 5:40 - 15-07-2025
 
+this time , i am tesing pol scm , this job need to be execute utc tie zone at 5:42 - 15-07-2025
